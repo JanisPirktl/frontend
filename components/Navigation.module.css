@@ -1,0 +1,10 @@
+.navigation{
+    background-color:beige;
+    height: 50px;
+    line-height: 50px;
+}
+
+.navigation a{
+    display: inline-block;
+    padding: 0 20px;
+}
